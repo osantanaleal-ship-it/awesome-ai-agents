@@ -19,6 +19,7 @@ A curated list of platforms, tools, frameworks, and resources for building, publ
 | [AutoGen](https://github.com/microsoft/autogen) | Microsoft's framework for multi-agent conversations | Multi-agent chat |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | OpenAI's framework for building agentic applications | Agent development |
 | [Anthropic Claude Agent](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) | Anthropic's agent framework with tool use | Code & reasoning |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, GEO, [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads); connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | Marketing agent skills |
 
 ## 🛠️ Frameworks & Libraries
 
