@@ -28,6 +28,10 @@ A curated list of platforms, tools, frameworks, and resources for building, publ
 - [Haystack](https://github.com/deepset-ai/haystack) — End-to-end NLP framework
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — Microsoft's SDK for LLM integration
 
+## 🧪 Testing & QA Tools
+
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available CLI and MCP server for natural-language web and mobile application tests
+
 ## 📚 Resources
 
 ### Articles
