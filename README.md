@@ -18,6 +18,7 @@ A curated list of platforms, tools, frameworks, and resources for building, publ
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Multi-agent framework that mimics a software company | Software development |
 | [AutoGen](https://github.com/microsoft/autogen) | Microsoft's framework for multi-agent conversations | Multi-agent chat |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | OpenAI's framework for building agentic applications | Agent development |
+| [Tale](https://tale.dev/) | Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables | Agent collaboration |
 | [Anthropic Claude Agent](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) | Anthropic's agent framework with tool use | Code & reasoning |
 
 ## 🛠️ Frameworks & Libraries
